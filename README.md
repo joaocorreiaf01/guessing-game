@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1> 🕹️ Sobre o Projeto
+  <h2> 🕹️ Sobre o Projeto
 </div>
     
 O **Adivinhe** é um jogo dinâmico e interativo, desenvolvido utilizando:
@@ -13,12 +13,12 @@ O **Adivinhe** é um jogo dinâmico e interativo, desenvolvido utilizando:
 - ⚡ **Vite** como ferramenta de build 
 
 
-### ✨ Funcionalidades
+### 🧰 Funcionalidades
 - ✅ Palavras diferentes sorteadas de maneira randômica a cada rodada
 - 💡 Contém dicas, então fica ligado!
 - ⏳ Se acertar as letras que compõem a palavra sem esgotar o número de tentativas, vence! Caso contrário, perde!
 - 🛟 Pode mudar a palavra caso ache alguma difícil, utilize
-- 🎲 No final da rodada será gerado uma nova palavra pra você, não se preocupe!
+- 🎲 No final da rodada será gerado uma nova palavra, não se preocupe!
 
 ### 🚀 Pré-requisitos
 - Node.js
