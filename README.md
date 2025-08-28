@@ -6,27 +6,24 @@
   <h1> 🕹️ Sobre o Projeto
 </div>
     
-O **Adivinhe** é um jogo interativo e dinâmico desenvolvido utilizando:
+O **Adivinhe** é um jogo dinâmico e interativo, desenvolvido utilizando:
 
-- <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" width="20" height="40"/> **JSON Server** para simulação de uma API
-- ⏰ **Dayjs** para lidar com data e hora
-- ⚙️ **Babel** como compilador  
-- 📦 **Webpack** como bundler (empacotamento)
+- ⚛️ **React** como biblioteca
+- 👨‍💻 **TypeScript** como Linguagem de Programação
+- ⚡ **Vite** como ferramenta de build 
 
 
 ### ✨ Funcionalidades
-- ✅ Agendamento de corte de cabelo com base nos horários disponíveis (Não está no passado e nem foi agendado)
-
-- ✅ Cancelamento de agendamento
-
-- ✅ Visualização do agendamento com os dados referente ao nome, horário e cancelamento
+- ✅ Palavras diferentes sorteadas de maneira randômica a cada rodada
+- 💡 Contém dicas, então fica ligado!
+- ⏳ Se acertar as letras que compõem a palavra sem esgotar o número de tentativas, vence! Caso contrário, perde!
+- 🛟 Pode mudar a palavra caso ache alguma difícil, utilize
+- 🎲 No final da rodada será gerado uma nova palavra pra você, não se preocupe!
 
 ### 🚀 Pré-requisitos
 - Node.js
-- JSON Server
-- Babel
-- Webpack
-- Dayjs
+- React
+- Vite
 
 ### 🙌 Obrigado!
 
